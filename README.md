@@ -18,7 +18,7 @@ Gerador de QR CODE
 
 ## 🤖 Tecnologias
 
-**Tecnologias usadas no layout**
+**Tecnologias usadas na aplicação**
 
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [MaterialSkin](http://www.macoratti.net/17/07/cshp_matlog1.htm)
